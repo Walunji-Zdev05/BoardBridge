@@ -332,9 +332,9 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 👥 **Team**
 
-- **Lead Developer** - [Your Name](https://github.com/yourusername)
-- **UI/UX Design** - [Designer Name]
-- **Backend** - [Backend Dev]
+- **Lead Developer** - Walunji Kumwenda
+- **UI/UX Design** - Walunji Kumwenda
+- **Backend** - Walunji kumwenda
 
 ---
 
@@ -350,9 +350,9 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 📞 **Contact**
 
-- **Project Link**: [https://github.com/yourusername/boardbridge](https://github.com/yourusername/boardbridge)
+- **Project Link**: [https://github.com/yourusername/boardbridge](https://github.com/Walunji-Zdev05/BoardBridge)
 - **Email**: boardbridge@example.com
-- **Twitter**: [@boardbridge](https://twitter.com/boardbridge)
+
 
 ---
 
